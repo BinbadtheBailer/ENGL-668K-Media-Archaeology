@@ -34,24 +34,41 @@ CP/M or MS-DOS
 Retail Price: The nearest I could find was the price of the Kaypro II, listed as both $1,795(1982)/$4,426.02(2015 
 and $1,595(1982)/$3,932.87(2015).
 Secondhand: Hard to find. Found one on ebay for $299 (buy it now).
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Kaypro was designed to be transportable (if not quite portable) like one of its competitors, the Osborne 1. It also had a
+reputation for being durable and easy to use, and its bundling with software made it quite economical. It eventually
+beat out its competitor for a few reasons: larger screen, relatively inexpensive ("the $1595 computer that sells for $1595"),
+simple closed architecture for non-hobbyist consumers (no need to buy parts and install them), bundled third-party software
+(e.g. Wordstar), and support from a network of trained dealers. Its eventual failure seems to have been caused by the slow 
+uptake of MS-DOS, which allowed competitors to gain a larger share of the market. 
 
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
-
+It turns out that all of life's questions can be answered by Google. In this particular case, it was all thanks to a guy on
+Youtube who recorded the screen of his Kaypro as he loaded up WordStar. I was putting in every disk, looking for some sort of
+Master disk.
 ===================================================================================================================
 APPLE IIe
 
 •	What year was it made? 
 1983
 •	What operating system does it run? 
-Apple DOS 3.3, ProDOS (CHECK MANUAL)
+Apple DOS 3.3
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
 Retail price: $1,395(1983)/$3,332.66(2015). 
 Secondhand: Fairly easy to find on secondhand market (both on eBay and Craigslist). $200-$764.15 (based on condition, box and manuals, etc.)
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+An enhanced edition of the Apple II series, the IIe included many features that had to be added on to earlier models. It was 
+appreciated by many first-time computer buyers for its various features and improvements. Considered a "workhorse" model, it 
+is known for being the longest-lived computer in Apple history. Its 11 years on the market (with few changes) seems unthinkable
+in an era of planned obsolescence (and perhaps Moore's Law). Some of the notable features are a full ASCII character set and 
+keyboard as well as backwards compatability with the vast majority of Apple II software.
 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
-sense of humor
+I appreciated the sense of humor shown in the tutorial software. I plan on giving Seadragon another try, but I wonder if there 
+might be something wrong with the controller. Unless you are given a limited number of shots (not the screen-nuking bombs), 
+which a Youtube seems to suggest isn't the case, the "Fire" button doesn't seem to be working quite right.
 
 ====================================================================================================================
 MACINTOSH SE
@@ -63,7 +80,12 @@ System Software 7.0.1
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
 Retail Price: Dual Floppy: $2900(1987)/$6,074.30(2015). With 20 MB hard drive: $3900(1987)/$8,168.89(2015)
 Secondhand: Ranged from $25-$1,300 (both Craigslist and eBay)
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The SE had some marginal improvements over its predecessor, the Macintosh Plus: the Apple Desktop Bus, replacing the older 
+port and connector for the keyboard and mouse, respectively; a port for expanded features (SE stood for "System Expansion");
+and a cooling fan for the longevity of the hardware. One of the SE's most notable features was that it was the first 
+Macintosh to allow for an internal hard drive (or a second floppy drive).
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
 hyperlinks
