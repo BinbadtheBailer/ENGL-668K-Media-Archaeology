@@ -46,7 +46,9 @@ uptake of MS-DOS, which allowed competitors to gain a larger share of the market
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
 It turns out that all of life's questions can be answered by Google. In this particular case, it was all thanks to a guy on
 Youtube who recorded the screen of his Kaypro as he loaded up WordStar. I was putting in every disk, looking for some sort of
-Master disk.
+Master disk. It's hard to imagine lay consumers being able to use something like this today. It's hard to say how much can be
+attributed to modern practices of UI design making access easier for more people or a general devaluation in computer literacy
+(essentially the age-old flamewar between Macs and PCs).
 ===================================================================================================================
 APPLE IIe
 
@@ -66,7 +68,8 @@ in an era of planned obsolescence (and perhaps Moore's Law). Some of the notable
 keyboard as well as backwards compatability with the vast majority of Apple II software.
 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
-I appreciated the sense of humor shown in the tutorial software. I plan on giving Seadragon another try, but I wonder if there 
+I appreciated the sense of humor shown in the tutorial software. I wonder if the humor is more reflective of computers tending
+to be associated more with hobbyists than general users. I plan on giving Seadragon another try, but I wonder if there 
 might be something wrong with the controller. Unless you are given a limited number of shots (not the screen-nuking bombs), 
 which a Youtube seems to suggest isn't the case, the "Fire" button doesn't seem to be working quite right.
 
@@ -88,7 +91,6 @@ and a cooling fan for the longevity of the hardware. One of the SE's most notabl
 Macintosh to allow for an internal hard drive (or a second floppy drive).
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
-hyperlinks
 
 WE DESCEND
 At first it looked like it was some kind of electronic novel with pictures. However, after going through a few 
@@ -103,6 +105,12 @@ looks like the software isn't rendering the pages/images correctly.
 STORYSPACE 1.5
 This is hypertext writing software used to make the other electronic novels on the dekstop.
 
+One thing that surprised me about the electronic novels was practices I would better associate with modern computing and the
+Internet. The use of links in We Descend was quite unexpected, and same goes for the linking of different pages on the map of 
+the town. After going through the article on Updike's process and trying out the hypertext novels, I marveled at how people
+managed to use this kind of antiquated software. Of course, many of the everyday functions of a computer that I think of as
+intuitive were likely learned from a young age and are really no more "natural" than anything users in the 80s would have to
+go through. I do wonder if there is something about touch interfaces that make them so intuitive (even for young children).
 
 ===================================================================================================================
 VECTREX
@@ -114,13 +122,25 @@ I could not find any information on its operating system.
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
 Retail Price: $199(1982)/$490.68(2015). 
 Secondhand: Not too hard to find on eBay. $25-$1300
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+Some of the Vectrex's distinguishing features are its use of vector graphics (paths) instead of raster graphics (pixels) and 
+its integrated monitor. Though it had the misfortune of being released soon before a major recession in the video game
+industry, it received praise for its durability, controller design, and library of games. The Vectrex also had a notably 
+function design, with a storage area at the bottom of the console for the control panel.
 
 Turn it on (you must figure out how). Play MineStorm. Try another cartridge. Why do you think the designer’s would have opted for the “vector” graphics?
-Presumably, the simplicity of using vectors made it easier to program the games. Of course, that seemed to limit the game types 
-to variations on Asteroids. The Star Trek was just a first-person version of Asteroids, and one of the other games I tried
-just had the player's avatar at the bottom of the field shooting objects moving around from up top, bouncing the projectile 
-off of surfaces.
+Presumably, the simplicity of using vectors made it easier to program the games. In relation to raster graphics, the vector
+graphics allow for the possibility of increasing the scale of the graphics without losing fidelity. Of course, the types of 
+games look to mostly be limited to variations on Asteroids. The Star Trek game was just a first-person version of Asteroids, 
+and one of the other games I tried just had the player's avatar at the bottom of the field shooting objects moving around from 
+up top, bouncing the projectile off of surfaces.
+
+While this is certainly not particular to the Vectrex, the use of cartridges for storing game data is an obvious point of
+differentiation from modern gaming. "Loading" was not a phrase I spent much time seeing on my old NES and SNES, and the Vectrex
+certainly doesn't have to suffer anything like that. It's hard to say whether an integrated monitor is preferable, but in
+some ways it seems much simpler than modern gaming systems. Of course, nothing was so bad as having to lug around an old
+CRT tv back in the days before LCD tv sets.
 ===================================================================================================================
 AMIGA
 
@@ -131,11 +151,14 @@ AmigaOS
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
 The Amiga1000 retailed at $1,295(1985)/$2,863.74(2015). 
 Secondhand: I was able to find a few on eBay. $90-$5,900 (couldn't tell what was special about the high-end one).
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
-According to The Future Was Here, the Amiga was the happy medium between game machines (like the Atari) and boring business 
-machines (IBM).
-It had a large color palette, and its capacity to store and display color photos, manipulate video and real world sounds 
-paved the way for modern creative work being done digitally on computers.
+According to THE FUTURE WAS HERE, the Amiga was the happy medium between game machines (like the Atari) and boring business 
+machines (IBM). While it was marketed as an all-purpose business machine, it had more popularity among general consumers as 
+home computers, particularly due to its numerous games and creative software. Before Apple became the standard for those doing
+creative work, the Amiga was highly regarded as a useful computer for music and video production. It had a large color palette, and its capacity to store and display color photos, manipulate video and real world sounds 
+paved the way for modern creative work being done digitally on computers. One strength of the operating system was its use of
+both a command-line interface and a GUI. 
 
 Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The Future Was Here.
 There are standard programs such as a notepad and a paint function. Looking at some of the diskettes, there looked to be some 
@@ -163,3 +186,6 @@ I preferred using WordPerfect. I could not figure out how to fix the margins, as
 found the margin settings in Page Setup, but the default margins were set correctly, so I wasn't sure what to do.
 As for other what else was on this Mac, there was Excel and an anti-virus program. The documents suggested that past user was 
 an employee in the print media services department in Hornbake Library.
+
+The thing that surprised me most about the IIci was the speed with which it brought up the desktop. I don't think we could get
+there quite as fast until we started booting off of SSDs. 
